@@ -1,0 +1,33 @@
+# Core Data Science & Analysis
+numpy>=2.0.0
+pandas>=2.2.0
+scipy>=1.14.0
+
+# Visualization
+matplotlib>=3.9.0
+seaborn>=0.13.0
+
+# Machine Learning & Scikit-Learn
+scikit-learn>=1.5.0
+joblib>=1.4.0
+
+# Natural Language Processing (NLP)
+nltk>=3.9.0
+
+# Statistical Modeling & Time Series Forecasting
+statsmodels>=0.14.0
+patsy>=0.5.6
+
+# Deep Learning (PyTorch)
+torch>=2.4.0
+torchvision>=0.19.0
+Pillow>=10.4.0
+
+# Interactive Web Applications & Dashboards
+streamlit>=1.38.0
+
+# Jupyter Notebook & Kernel Support
+jupyter>=1.0.0
+ipykernel>=6.29.0
+nbconvert>=7.16.0
+nbformat>=5.10.0
