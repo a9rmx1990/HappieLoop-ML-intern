@@ -1,0 +1,29 @@
+# SKILL file (do not push)
+SKILL.md
+*.skill.md
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+venv/
+.venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets and Large Archives
+task6/data_20news/
+task8/data/
+*.tar.gz
+*.pkz
+
+# OS metadata
+.DS_Store
+Thumbs.db
+make_commits.sh
